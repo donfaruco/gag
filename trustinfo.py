@@ -12,7 +12,7 @@ def mytrust(city):
     data = """
     Name: Law offices of Savin & Bursk
     Phone: 818-368-8646
-    Address = 10663 Yarmouth Ave.
+    Address: 10663 Yarmouth Ave.
     Granada Hills, CA. 91344
     """
 
